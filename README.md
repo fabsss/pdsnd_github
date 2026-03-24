@@ -42,6 +42,9 @@ This project explores bikeshare data for New York City. It allows users to filte
 ### Credits
 This project is part of the Udacity Data Science Nanodegree. Dataset provided by Udacity. No external repositories or blogposts were directly used for this starter project.
 
+I want to thank my mother for everything!
+
 ### License
 This project is for educational purposes as part of the Udacity Data Science Nanodegree. Unless otherwise specified, it is provided under the MIT License. See LICENSE file if available.
+
 
